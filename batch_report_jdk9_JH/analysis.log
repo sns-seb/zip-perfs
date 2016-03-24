@@ -1,0 +1,64 @@
+SonarQube plugins:
+  - C# 4.4 (csharp)
+  - Java 3.11 (java)
+  - Git 1.0 (scmgit)
+  - Mercurial 1.1.1 (scmmercurial)
+  - SVN 1.0 (scmsvn)
+  - JavaScript 2.9 (javascript)
+Settings for module: openjdk9:corba
+  - sonar.moduleKey=openjdk9:corba
+  - sonar.projectBaseDir=/home/sebastienl/tmp/openjdk/jdk9/corba
+  - sonar.projectKey=openjdk9:corba
+  - sonar.projectName=corba
+  - sonar.sources=src
+Settings for module: openjdk9:jaxp
+  - sonar.moduleKey=openjdk9:jaxp
+  - sonar.projectBaseDir=/home/sebastienl/tmp/openjdk/jdk9/jaxp
+  - sonar.projectKey=openjdk9:jaxp
+  - sonar.projectName=jaxp
+  - sonar.sources=src
+Settings for module: openjdk9:jaxws
+  - sonar.moduleKey=openjdk9:jaxws
+  - sonar.projectBaseDir=/home/sebastienl/tmp/openjdk/jdk9/jaxws
+  - sonar.projectKey=openjdk9:jaxws
+  - sonar.projectName=jaxws
+  - sonar.sources=src
+Settings for module: openjdk9:langtools
+  - sonar.moduleKey=openjdk9:langtools
+  - sonar.projectBaseDir=/home/sebastienl/tmp/openjdk/jdk9/langtools
+  - sonar.projectKey=openjdk9:langtools
+  - sonar.projectName=langtools
+  - sonar.sources=src
+Settings for module: openjdk9:jdk
+  - sonar.moduleKey=openjdk9:jdk
+  - sonar.projectBaseDir=/home/sebastienl/tmp/openjdk/jdk9/jdk
+  - sonar.projectKey=openjdk9:jdk
+  - sonar.projectName=jdk
+  - sonar.sources=src
+Settings for module: openjdk9:hotspot
+  - sonar.moduleKey=openjdk9:hotspot
+  - sonar.projectBaseDir=/home/sebastienl/tmp/openjdk/jdk9/hotspot
+  - sonar.projectKey=openjdk9:hotspot
+  - sonar.projectName=hotspot
+  - sonar.sources=src
+Settings for module: openjdk9:nashorn
+  - sonar.moduleKey=openjdk9:nashorn
+  - sonar.projectBaseDir=/home/sebastienl/tmp/openjdk/jdk9/nashorn
+  - sonar.projectKey=openjdk9:nashorn
+  - sonar.projectName=nashorn
+  - sonar.sources=src
+Settings for module: openjdk9
+  - sonar.batch.keepReport=true
+  - sonar.cpd.skip=true
+  - sonar.host.url=http://localhost:9010
+  - sonar.jdbc.url=jdbc:h2:tcp://localhost:9032/sonar
+  - sonar.language=java
+  - sonar.login=admin
+  - sonar.modules=corba,jaxp,jaxws,langtools,jdk,hotspot,nashorn
+  - sonar.password=******
+  - sonar.projectBaseDir=/home/sebastienl/tmp/openjdk/jdk9/.
+  - sonar.projectKey=openjdk9
+  - sonar.projectName=OpenJdk9
+  - sonar.projectVersion=trunk
+  - sonar.sourceEncoding=UTF-8
+  - sonar.working.directory=/home/sebastienl/tmp/openjdk/jdk9/./.sonar

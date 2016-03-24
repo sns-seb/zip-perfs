@@ -1,0 +1,1 @@
+‡2q[{"key":"java-sonar-way-33182","language":"java","name":"Sonar way","rulesUpdatedAt":"2016-03-22T15:23:31+0000"}]:quality_profiles

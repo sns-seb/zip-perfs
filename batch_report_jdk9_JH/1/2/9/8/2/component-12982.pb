@@ -1,0 +1,1 @@
+¶e,src/java.desktop/share/classes/sun/awt/event :·e

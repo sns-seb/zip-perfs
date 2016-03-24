@@ -1,0 +1,1 @@
+ê<6src/demo/share/java2d/J2DBench/src/j2dbench/tests/text :ë<í<ì<î<

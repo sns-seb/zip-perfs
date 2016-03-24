@@ -1,0 +1,1 @@
+Ë]8src/java.desktop/share/classes/javax/imageio/plugins/bmp :Ì]
