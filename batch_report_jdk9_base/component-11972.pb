@@ -1,0 +1,1 @@
+Ä]5src/java.desktop/share/classes/javax/imageio/metadata :Å]Æ]Ç]È]É]Ê]

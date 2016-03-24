@@ -1,0 +1,1 @@
+نEsrc/jdk.hotspot.agent/share/classes/sun/jvm/hotspot/debugger/proc/x86 :	چۆ܆

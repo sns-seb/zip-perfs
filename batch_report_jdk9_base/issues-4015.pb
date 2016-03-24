@@ -1,0 +1,3 @@
+c
+squidS2094¾"BRemove this empty class, write its code or make it an "interface".(:
+¾¾ 

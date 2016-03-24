@@ -1,0 +1,1 @@
+Ò;src/demo/share/applets/DrawTest :Ó;

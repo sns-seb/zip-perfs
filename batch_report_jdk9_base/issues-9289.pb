@@ -1,0 +1,5 @@
+Y
+squidS1197ä"8Move the array designator from the variable to the type.(:
+ää> ?Y
+squidS1197¤"8Move the array designator from the variable to the type.(:
+¤¤= >

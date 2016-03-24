@@ -1,0 +1,2 @@
+†
+squidClassVariableVisibilityCheck"QMake value a static final constant or non-public and provide accessors if needed.(: 

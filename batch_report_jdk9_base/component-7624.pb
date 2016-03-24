@@ -1,0 +1,1 @@
+È;src/demo/share/applets/BarChart :É;

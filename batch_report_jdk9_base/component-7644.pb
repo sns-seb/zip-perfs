@@ -1,0 +1,1 @@
+Ü;"src/demo/share/applets/NervousText :Ý;

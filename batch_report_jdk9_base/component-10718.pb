@@ -1,0 +1,1 @@
+ÞS7src/java.corba/share/classes/com/sun/jndi/url/corbaname :ßS

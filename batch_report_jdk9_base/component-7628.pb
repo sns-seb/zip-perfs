@@ -1,0 +1,1 @@
+Ì;src/demo/share/applets/CardTest :Í;
